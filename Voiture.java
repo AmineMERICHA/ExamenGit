@@ -3,3 +3,4 @@ type
 couleur
 vitesse
 numeroChassis
+nombrePortes
