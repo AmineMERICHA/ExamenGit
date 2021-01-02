@@ -1,3 +1,5 @@
 marque
 type
 couleur
+vitesse
+numeroChassis
